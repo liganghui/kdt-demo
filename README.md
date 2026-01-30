@@ -6,7 +6,7 @@
 [![Konva](https://img.shields.io/badge/Konva-9.x-0D61F2?style=flat-square)](https://konvajs.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](./LICENSE)
 
-[简体中文](./README_CN.md](https://github.com/liganghui/kdt-demo/blob/main/README_CN.md) | [English](./README.md)
+[简体中文](https://github.com/liganghui/kdt-demo/blob/main/README_CN.md) | [English](./README.md)
 
 ---
 
