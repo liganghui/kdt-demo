@@ -2,7 +2,11 @@
 
 **Core Library for Visual Editors based on Konva.js & Vue 3**
 
-[简体中文](./README_CN.md) | [English](./README.md)
+[![Vue](https://img.shields.io/badge/Vue-3.x-4FC08D?style=flat-square&logo=vue.js)](https://vuejs.org/)
+[![Konva](https://img.shields.io/badge/Konva-9.x-0D61F2?style=flat-square)](https://konvajs.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](./LICENSE)
+
+[简体中文](./README_CN.md](https://github.com/liganghui/kdt-demo/blob/main/README_CN.md) | [English](./README.md)
 
 ---
 
