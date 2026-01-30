@@ -1,0 +1,112 @@
+﻿input::-webkit-input-placeholder {
+    color: #8f8d8d !important;
+}
+
+.el-dropdown-link {
+    outline: none;
+}
+
+.el-form-item__label {
+    user-select: none;
+}
+// 属性面板 折叠面板高亮
+.component-props-wrapper{
+    .el-collapse-item__header {
+        font-weight: 500;
+        &:hover {
+            color: #1890FF;
+        }
+    }
+}
+
+
+.light-panel-bg {
+    background-color: var(--el-color-white);
+}
+
+html.dark .light-panel-bg {
+    background-color: var(--panel-light-bg-color);
+
+}
+
+
+
+.dom-base {
+    display: inline-block;
+    position: absolute;
+    transform-origin: 0 0;
+    overflow: hidden;
+}
+
+.dom-disabled-event {
+    pointer-events: none;
+}
+
+.konvajs-content>canvas {
+    pointer-events: none
+}
+
+@font-face {
+    font-family: 'Source Han Sans';
+    src: url('../fonts/SourceHanSansSC-VF.otf.woff2') formawoff2;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alimama FangYuan';
+    src: url('../fonts/AlimamaFangYuanTiVF-Thin.ttf') formatruetype;
+    font-weight: normal;
+    font-style: normal;
+}
+/* 榛樿瀛椾綋 */
+body {
+   font-family:
+     System-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+      /* 中文字体按平台优先级 */
+    "PingFang SC",           /* iOS/macOS 苹方 */
+    "Noto Sans CJK SC",      /* Android Google字体 */  
+    "Microsoft YaHei",       /* Windows 微软雅黑 */
+    "Hiragino Sans GB",      /* 老版本 macOS 备用 */
+    /* 英文字体备用 */
+    "Segoe UI",              /* Windows 10+ */
+    "Roboto",                /* Android */
+    "Helvetica Neue",        
+    "Arial",                 
+    sans-serif;
+}
+@keyframes scrollAnimation{
+    0% {
+      transform: translateY(0);
+    }
+    100% {
+      transform: translateY(-50%);
+    }
+}
+//--  绉诲姩绔吋瀹规牱寮?     ---
+.preview-mobile{
+    .el-loading-mask{
+        left: -50% !important;
+        height: 100vh;
+        width: 100vh;
+        .el-loading-spinner{
+            transform: rotate(90deg);
+        }
+    }
+    .el-message{
+        transform-origin: center center;
+        height: auto !important;
+        position: fixed;
+        top: 50% !important;
+        left: 90% !important;
+        transform: translate(-50%, -50%) rotate(90deg) !important;
+    }
+    .el-overlay{
+        transform: rotate(90deg);
+        background-color: transparent;
+    }
+    
+}
+

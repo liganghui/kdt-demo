@@ -1,0 +1,50 @@
+/* 定义默认主题变量 */
+:root {
+  --primary-color: #57a3f5;
+  --panel-bg-color: #fafafa;
+  --panel-light-bg-color: #fff;
+  --text-color: #333333;
+  --light-color: #575656;
+  --sub-text-color: #707070;
+  --primary-text-color: #333333;
+  --panel-border-out-color: #e8eaeb;
+  --panel-border-in-color: rgba(221, 221, 221, 0.5);
+}
+
+/* 定义暗主题变量 */
+html.dark {
+  --primary-color: #57a3f5;
+  --text-color: #f3f3f3;
+  --background-color: #343a40;
+  --panel-bg-color: #303030;
+  --panel-light-bg-color: #313131;
+  --light-color: #575656;
+  --sub-text-color: #a9aaac;
+  --primary-text-color: #e5eaf3;
+  --panel-border-out-color: #232323;
+  --panel-border-in-color: rgba(57, 57, 57, 0.7);
+}
+
+.sub-text-color {
+  color: var(--sub-text-color);
+}
+
+.primary-color {
+  color: var(--primary-color);
+}
+
+.primary-text-color {
+  color: var(--primary-text-color);
+}
+
+.text-color {
+  color: var(--text-color);
+}
+
+.sub-text-color {
+  color: var(--sub-text-color);
+}
+
+.white-color {
+  color: #fff;
+}
