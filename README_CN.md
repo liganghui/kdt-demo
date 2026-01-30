@@ -65,10 +65,11 @@ git checkout demo_cn
 ## 📸 功能演示
 
 ### 编辑器主界面
+<img src="https://github.com/liganghui/kdt-demo/blob/main/doc_img/main_one_cn.png"/>
 
 ### 图层与右键菜单
+<img src="https://github.com/liganghui/kdt-demo/blob/main/doc_img/main_two_cn.png"/>
 
-### 预览与移动端适配
 
 ---
 
