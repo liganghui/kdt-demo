@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Aileron-Regular, Aileron;
+      }
+
+      .cls-2 {
+        font-family: SourceHanSansCN-Regular-GBpc-EUC-H, 'Source Han Sans CN';
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-size: 12px;
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        fill: #409efe;
+      }
+    </style>
+  </defs>
+  <g id="_图层_2-2" data-name=" 图层 2">
+    <g>
+      <rect class="cls-4" width="120" height="40" rx="6" ry="6"/>
+      <text class="cls-3" transform="translate(27.29 23.94)"><tspan class="cls-2" x="0" y="0">取消</tspan><tspan class="cls-1" x="24" y="0">/Cancle</tspan></text>
+    </g>
+  </g>
+</svg>
