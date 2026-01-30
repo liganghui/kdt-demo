@@ -1,0 +1,40 @@
+{
+    "tags": {
+        "allowUnknownTags": true
+    },
+    "source": {
+        "include": [
+            "src/core"
+        ],
+        "includePattern": ".js$",
+        "excludePattern": "(node_modules/|docs)"
+    },
+    "plugins": [
+        "plugins/markdown"
+    ],
+    "opts": {
+        "template": "docs/node_modules/docdash",
+        "destination": "./docs/kdt",
+        "encoding": "utf8",
+        "recurse": true
+    },
+    "templates": {
+        "cleverLinks": false,
+        "monospaceLinks": false,
+        "linenums": false,
+        "default": {
+            "outputSourceFiles": false,
+            "noURLEncode": true
+        }
+    },
+    "markdown": {
+        "hardwrap": false,
+        "idInHeadings": true
+    },
+    "docdash": {
+        "outputSourceFiles": false,
+        "noURLEncode": true,
+        "sort": true,
+        "search": true
+    }
+}
