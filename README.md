@@ -47,11 +47,11 @@ This project includes most of the core capabilities required for a professional 
 
 ### Editor Interface
 
-<img src="./doc_img/main_one_en.png" alt="Main Interface">
+<img src="https://github.com/liganghui/kdt-demo/blob/main/doc_img/main_en_one.png" alt="Main Interface"/>
 
 ### Components & Context Menu
 
-<img src="./doc_img/main_two_en.png" alt="Context Menu">
+<img src="https://github.com/liganghui/kdt-demo/blob/main/doc_img/main_en_two.png" alt="Context Menu"/>
 
 ---
 
