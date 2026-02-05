@@ -1,4 +1,4 @@
-# 🎨 KDT - DEMO
+# 🎨 konva-dom-demo
 
 **Core Library for Visual Editors based on Konva.js & Vue 3**
 
@@ -8,7 +8,7 @@
 
 ## 📖 Introduction
 
-**KDT-DEMO** is a graphics processing library encapsulated around **Konva.js** and built within the **Vue 3** ecosystem.
+**konva-dom-demo** is a graphics processing library encapsulated around **Konva.js** and built within the **Vue 3** ecosystem.
 
 **The Core Solution**: The standout feature of this project is the **simultaneous manipulation of DOM elements within the Canvas**. It is not just a standard Canvas drawing tool; it seamlessly integrates HTML DOM components (such as ECharts, Iframes, etc.) with Canvas graphics. This effectively solves the limitations traditional Canvas editors face when rendering complex Web components.
 
