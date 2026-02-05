@@ -51,11 +51,11 @@ This project includes most of the core capabilities required for a professional 
 
 ### Editor Interface
 
-<img src="https://github.com/liganghui/kdt-demo/blob/main/doc_img/main_en_one.png" alt="Main Interface"/>
+<img src="https://github.com/liganghui/konva-dom-demo/blob/main/doc_img/main_en_one.png" alt="Main Interface"/>
 
 ### Components & Context Menu
 
-<img src="https://github.com/liganghui/kdt-demo/blob/main/doc_img/main_en_two.png" alt="Context Menu"/>
+<img src="https://github.com/liganghui/konva-dom-demo/blob/main/doc_img/main_en_two.png" alt="Context Menu"/>
 
 ---
 
