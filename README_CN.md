@@ -1,4 +1,4 @@
-# 🎨 KDT - DEMO
+# 🎨 konva-dom-demo
 
 **基于 Konva.js & Vue 3 的大屏编辑器核心库**
 
@@ -13,7 +13,7 @@
 
 ## 📖 项目简介
 
-**KDT-DEMO** 是一个基于 **Konva.js** 封装的图形处理库，结合 **Vue 3** 生态构建。
+**konva-dom-demo** 是一个基于 **Konva.js** 封装的图形处理库，结合 **Vue 3** 生态构建。
 
 **核心痛点解决**：本项目的最大特点是实现了 **Canvas 画布中同时操控 DOM 元素**。它不仅仅是一个 Canvas 绘图工具，更完美融合了 HTML DOM 组件（如 ECharts、Iframe 等）与 Canvas 图形的交互，解决了传统 Canvas 编辑器在渲染复杂 Web 组件时的局限性。
 
